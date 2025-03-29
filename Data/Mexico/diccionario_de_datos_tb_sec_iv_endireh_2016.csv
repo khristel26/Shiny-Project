@@ -1,0 +1,313 @@
+﻿NOMBRE_CAMPO,NEMONICO,TIPO,LONGITUD,RANGO_CLAVES
+Identificador de vivienda seleccionada,id_viv,Carácter,10,"0100001.01, …, 3299999.99"
+Identificador de la mujer,id_muj,Carácter,16,"0100001.01.01.01, …, 3299999.99.06.30"
+Control de vivienda (UPM),upm,Carácter,7,"0100001, …, 3299999"
+Número de renglón de la mujer elegida,ren_m_ele,Carácter,2,"01, …, 30"
+Vivienda seleccionada,viv_sel,Carácter,2,"01, …, 99"
+Progresivo de la vivienda seleccionada,prog,Carácter,3,"001, …, 999"
+Control del hogar,hogar,Carácter,2,"01, …, 06"
+Dominio,dominio,Carácter,1,"U "
+Dominio,dominio,Carácter,1,"C "
+Dominio,dominio,Carácter,1,"R "
+Clave Entidad,cve_ent,Carácter,2,"01, …, 32"
+Nombre Entidad Federativa,nom_ent,Carácter,255,"Catálogo de entidad"
+Clave Municipio,cve_mun,Carácter,3,"001, …, 570"
+Nombre Municipio,nom_mun,Carácter,255,"Catálogo de municipio"
+Resultado de la visita a la vivienda,cod_res,Carácter,2,"01 "
+Resultado de entrevista a mujer elegida.,cod_res_mu,Numérico,1,"1 "
+Tipo de cuestionario aplicado a la mujer elegida,t_instrum,Alfanumérico,2,"A1 "
+Tipo de cuestionario aplicado a la mujer elegida,t_instrum,Alfanumérico,2,"A2 "
+Tipo de cuestionario aplicado a la mujer elegida,t_instrum,Alfanumérico,2,"B1 "
+Tipo de cuestionario aplicado a la mujer elegida,t_instrum,Alfanumérico,2,"B2 "
+Tipo de cuestionario aplicado a la mujer elegida,t_instrum,Alfanumérico,2,"C1 "
+Tipo de cuestionario aplicado a la mujer elegida,t_instrum,Alfanumérico,2,"C2 "
+Número de renglón esposo,num_renesp,Carácter,2,"00 "
+Tipo de unión con la pareja o ex-pareja,p4ab_1,Numérico,1,"1 "
+Tipo de unión con la pareja o ex-pareja,p4ab_1,Numérico,1,"2 "
+Tipo de unión con la pareja o ex-pareja,p4ab_1,Numérico,1,"3 "
+Tipo de unión con la pareja o ex-pareja,p4ab_1,Numérico,1,"4 "
+Tipo de unión con la pareja o ex-pareja,p4ab_1,Numérico,1,"b "
+Tiempo desde que su esposo o pareja no vive con usted,p4ab_2,Carácter,2,"01 a 50 "
+Tiempo desde que su esposo o pareja no vive con usted,p4ab_2,Carácter,2,"00 "
+Tiempo desde que su esposo o pareja no vive con usted,p4ab_2,Carácter,2,"98 "
+Tiempo desde que su esposo o pareja no vive con usted,p4ab_2,Carácter,2,"99 "
+Tiempo desde que su esposo o pareja no vive con usted,p4ab_2,Carácter,2,"b "
+Última visita del esposo o pareja,p4a_1,Numérico,1,"1 "
+Última visita del esposo o pareja,p4a_1,Numérico,1,"2 "
+Última visita del esposo o pareja,p4a_1,Numérico,1,"3 "
+Última visita del esposo o pareja,p4a_1,Numérico,1,"4 "
+Última visita del esposo o pareja,p4a_1,Numérico,1,"5 "
+Última visita del esposo o pareja,p4a_1,Numérico,1,"6 "
+Última visita del esposo o pareja,p4a_1,Numérico,1,"7 "
+Última visita del esposo o pareja,p4a_1,Numérico,1,"8 "
+Última visita del esposo o pareja,p4a_1,Numérico,1,"9 "
+Última visita del esposo o pareja,p4a_1,Numérico,1,"b "
+Frecuencia de las visitas de la pareja ausente,p4a_2,Numérico,1,"1 "
+Frecuencia de las visitas de la pareja ausente,p4a_2,Numérico,1,"2 "
+Frecuencia de las visitas de la pareja ausente,p4a_2,Numérico,1,"3 "
+Frecuencia de las visitas de la pareja ausente,p4a_2,Numérico,1,"4 "
+Frecuencia de las visitas de la pareja ausente,p4a_2,Numérico,1,"5 "
+Frecuencia de las visitas de la pareja ausente,p4a_2,Numérico,1,"6 "
+Frecuencia de las visitas de la pareja ausente,p4a_2,Numérico,1,"7 "
+Frecuencia de las visitas de la pareja ausente,p4a_2,Numérico,1,"8 "
+Frecuencia de las visitas de la pareja ausente,p4a_2,Numérico,1,"b "
+Situación con el ex-esposo o ex-pareja,p4b_1,Numérico,1,"1 "
+Situación con el ex-esposo o ex-pareja,p4b_1,Numérico,1,"2 "
+Situación con el ex-esposo o ex-pareja,p4b_1,Numérico,1,"3 "
+Situación con el ex-esposo o ex-pareja,p4b_1,Numérico,1,"b "
+Lugar de residencia del ex-esposo o ex-pareja,p4b_2,Numérico,1,"1 "
+Lugar de residencia del ex-esposo o ex-pareja,p4b_2,Numérico,1,"2 "
+Lugar de residencia del ex-esposo o ex-pareja,p4b_2,Numérico,1,"3 "
+Lugar de residencia del ex-esposo o ex-pareja,p4b_2,Numérico,1,"4 "
+Lugar de residencia del ex-esposo o ex-pareja,p4b_2,Numérico,1,"5 "
+Lugar de residencia del ex-esposo o ex-pareja,p4b_2,Numérico,1,"6 "
+Lugar de residencia del ex-esposo o ex-pareja,p4b_2,Numérico,1,"7 "
+Lugar de residencia del ex-esposo o ex-pareja,p4b_2,Numérico,1,"8 "
+Lugar de residencia del ex-esposo o ex-pareja,p4b_2,Numérico,1,"9 "
+Lugar de residencia del ex-esposo o ex-pareja,p4b_2,Numérico,1,"b "
+Edad de la pareja o ex-pareja,p4bc_1,Numérico,2,"01 a 96 "
+Edad de la pareja o ex-pareja,p4bc_1,Numérico,2,"97 "
+Edad de la pareja o ex-pareja,p4bc_1,Numérico,2,"98 "
+Edad de la pareja o ex-pareja,p4bc_1,Numérico,2,"99 "
+Edad de la pareja o ex-pareja,p4bc_1,Numérico,2,"b "
+Nivel de escolaridad de la pareja o ex-pareja,p4bc_2,Carácter,2,"00 "
+Nivel de escolaridad de la pareja o ex-pareja,p4bc_2,Carácter,2,"01 "
+Nivel de escolaridad de la pareja o ex-pareja,p4bc_2,Carácter,2,"02 "
+Nivel de escolaridad de la pareja o ex-pareja,p4bc_2,Carácter,2,"03 "
+Nivel de escolaridad de la pareja o ex-pareja,p4bc_2,Carácter,2,"04 "
+Nivel de escolaridad de la pareja o ex-pareja,p4bc_2,Carácter,2,"05 "
+Nivel de escolaridad de la pareja o ex-pareja,p4bc_2,Carácter,2,"06 "
+Nivel de escolaridad de la pareja o ex-pareja,p4bc_2,Carácter,2,"07 "
+Nivel de escolaridad de la pareja o ex-pareja,p4bc_2,Carácter,2,"08 "
+Nivel de escolaridad de la pareja o ex-pareja,p4bc_2,Carácter,2,"09 "
+Nivel de escolaridad de la pareja o ex-pareja,p4bc_2,Carácter,2,"10 "
+Nivel de escolaridad de la pareja o ex-pareja,p4bc_2,Carácter,2,"11 "
+Nivel de escolaridad de la pareja o ex-pareja,p4bc_2,Carácter,2,"b "
+Asistencia escolar actual de la pareja o ex pareja,p4c_1,Numérico,1,"1 "
+Asistencia escolar actual de la pareja o ex pareja,p4c_1,Numérico,1,"2 "
+Asistencia escolar actual de la pareja o ex pareja,p4c_1,Numérico,1,"8 "
+Asistencia escolar actual de la pareja o ex pareja,p4c_1,Numérico,1,"b "
+Consideración de la pareja o ex-pareja de ser indígena.,p4bc_3,Numérico,1,"1 "
+Consideración de la pareja o ex-pareja de ser indígena.,p4bc_3,Numérico,1,"2 "
+Consideración de la pareja o ex-pareja de ser indígena.,p4bc_3,Numérico,1,"3 "
+Consideración de la pareja o ex-pareja de ser indígena.,p4bc_3,Numérico,1,"8 "
+Consideración de la pareja o ex-pareja de ser indígena.,p4bc_3,Numérico,1,"b "
+Pareja o ex-pareja hablante de lengua indígena,p4bc_4,Numérico,1,"1 "
+Pareja o ex-pareja hablante de lengua indígena,p4bc_4,Numérico,1,"2 "
+Pareja o ex-pareja hablante de lengua indígena,p4bc_4,Numérico,1,"b "
+Pareja o ex-pareja también hablante de español,p4bc_5,Numérico,1,"1 "
+Pareja o ex-pareja también hablante de español,p4bc_5,Numérico,1,"2 "
+Pareja o ex-pareja también hablante de español,p4bc_5,Numérico,1,"b "
+Situación laboral,p4_1,Numérico,1,"1 "
+Situación laboral,p4_1,Numérico,1,"2 "
+Salario,p4_2,Numérico,6,"1 a 999996 "
+Salario,p4_2,Numérico,6,"000000 "
+Salario,p4_2,Numérico,6,"999998 "
+Salario,p4_2,Numérico,6,"999997 "
+Salario,p4_2,Numérico,6,"b "
+Temporalidad del salario de la informante,p4_2_1,Numérico,1,"1 "
+Temporalidad del salario de la informante,p4_2_1,Numérico,1,"2 "
+Temporalidad del salario de la informante,p4_2_1,Numérico,1,"3 "
+Temporalidad del salario de la informante,p4_2_1,Numérico,1,"8 "
+Temporalidad del salario de la informante,p4_2_1,Numérico,1,"9 "
+Temporalidad del salario de la informante,p4_2_1,Numérico,1,"b "
+Ingreso económico de la pareja o ex-pareja de la informante,p4_3,Numérico,1,"1 "
+Ingreso económico de la pareja o ex-pareja de la informante,p4_3,Numérico,1,"2 "
+Ingreso económico de la pareja o ex-pareja de la informante,p4_3,Numérico,1,"8 "
+Ingreso económico de la pareja o ex-pareja de la informante,p4_3,Numérico,1,"b "
+Ocupación de la pareja o ex-pareja.,p4_4,Carácter,101,"Texto mínimo 3 caracteres"
+Ocupación de la pareja o ex pareja. Especifique,p4_4_cve,Numérico,4,"1001 "
+Ocupación de la pareja o ex pareja. Especifique,p4_4_cve,Numérico,4,"1002 "
+Ocupación de la pareja o ex pareja. Especifique,p4_4_cve,Numérico,4,"1003 "
+Ocupación de la pareja o ex pareja. Especifique,p4_4_cve,Numérico,4,"1004 "
+Ocupación de la pareja o ex pareja. Especifique,p4_4_cve,Numérico,4,"1005 "
+Ocupación de la pareja o ex pareja. Especifique,p4_4_cve,Numérico,4,"1006 "
+Ocupación de la pareja o ex pareja. Especifique,p4_4_cve,Numérico,4,"1007 "
+Ocupación de la pareja o ex pareja. Especifique,p4_4_cve,Numérico,4,"1008 "
+Ocupación de la pareja o ex pareja. Especifique,p4_4_cve,Numérico,4,"1111, … , 9999 "
+Temporalidad del salario de la pareja o ex pareja de la informante,p4_5_1_ab,Numérico,1,"1 "
+Temporalidad del salario de la pareja o ex pareja de la informante,p4_5_1_ab,Numérico,1,"2 "
+Temporalidad del salario de la pareja o ex pareja de la informante,p4_5_1_ab,Numérico,1,"3 "
+Temporalidad del salario de la pareja o ex pareja de la informante,p4_5_1_ab,Numérico,1,"8 "
+Temporalidad del salario de la pareja o ex pareja de la informante,p4_5_1_ab,Numérico,1,"9 "
+Temporalidad del salario de la pareja o ex pareja de la informante,p4_5_1_ab,Numérico,1,"b "
+Aporte económico por parte de la pareja o ex-pareja de la informante,p4_6_ab,Numérico,1,"1 "
+Aporte económico por parte de la pareja o ex-pareja de la informante,p4_6_ab,Numérico,1,"2 "
+Aporte económico por parte de la pareja o ex-pareja de la informante,p4_6_ab,Numérico,1,"3 "
+Aporte económico por parte de la pareja o ex-pareja de la informante,p4_6_ab,Numérico,1,"9 "
+Aporte económico por parte de la pareja o ex-pareja de la informante,p4_6_ab,Numérico,1,"b "
+Ingreso por jubilación o pensión,p4_8_1,Numérico,1,"1 "
+Ingreso por jubilación o pensión,p4_8_1,Numérico,1,"2 "
+Ingreso por parte de familiares o conocidos que vivan en Estados Unidos de América,p4_8_2,Numérico,1,"1 "
+Ingreso por parte de familiares o conocidos que vivan en Estados Unidos de América,p4_8_2,Numérico,1,"2 "
+Ingreso por parte de familiares o conocidos que viven dentro del país.,p4_8_3,Numérico,1,"1 "
+Ingreso por parte de familiares o conocidos que viven dentro del país.,p4_8_3,Numérico,1,"2 "
+Ingreso por beca escolar para sus hijos e hijas,p4_8_4,Numérico,1,"1 "
+Ingreso por beca escolar para sus hijos e hijas,p4_8_4,Numérico,1,"2 "
+Ingreso por beca escolar propia,p4_8_5,Numérico,1,"1 "
+Ingreso por beca escolar propia,p4_8_5,Numérico,1,"2 "
+Ingreso por pertenecer al Programa Prospera (antes Oportunidades),p4_8_6,Numérico,1,"1 "
+Ingreso por pertenecer al Programa Prospera (antes Oportunidades),p4_8_6,Numérico,1,"2 "
+Ingreso por pertenecer a algún otro programa del gobierno,p4_8_7,Numérico,1,"1 "
+Ingreso por pertenecer a algún otro programa del gobierno,p4_8_7,Numérico,1,"2 "
+Ingreso por otro medio,p4_8_8,Numérico,1,"1 "
+Ingreso por otro medio,p4_8_8,Numérico,1,"2 "
+Cantidad recibida al mes por jubilación o pensión,p4_9_1,Numérico,6,"1, … , 999996 "
+Cantidad recibida al mes por jubilación o pensión,p4_9_1,Numérico,6,"999997 "
+Cantidad recibida al mes por jubilación o pensión,p4_9_1,Numérico,6,"999998 "
+Cantidad recibida al mes por jubilación o pensión,p4_9_1,Numérico,6,"999999 "
+Cantidad recibida al mes por jubilación o pensión,p4_9_1,Numérico,6,"b "
+Cantidad recibida al mes por parte de familiares o conocidos que viven en EUA,p4_9_2,Numérico,6,"1, … , 999996 "
+Cantidad recibida al mes por parte de familiares o conocidos que viven en EUA,p4_9_2,Numérico,6,"999997 "
+Cantidad recibida al mes por parte de familiares o conocidos que viven en EUA,p4_9_2,Numérico,6,"999998 "
+Cantidad recibida al mes por parte de familiares o conocidos que viven en EUA,p4_9_2,Numérico,6,"b "
+Aporte económico por parte del primer familiar o conocido que vive en EUA.,p4_10_2_1,Numérico,1,"1 "
+Aporte económico por parte del primer familiar o conocido que vive en EUA.,p4_10_2_1,Numérico,1,"2 "
+Aporte económico por parte del primer familiar o conocido que vive en EUA.,p4_10_2_1,Numérico,1,"3 "
+Aporte económico por parte del primer familiar o conocido que vive en EUA.,p4_10_2_1,Numérico,1,"4 "
+Aporte económico por parte del primer familiar o conocido que vive en EUA.,p4_10_2_1,Numérico,1,"5 "
+Aporte económico por parte del primer familiar o conocido que vive en EUA.,p4_10_2_1,Numérico,1,"b "
+Aporte económico por parte del segundo familiar o conocido que vive en EUA.,p4_10_2_2,Numérico,1,"1 "
+Aporte económico por parte del segundo familiar o conocido que vive en EUA.,p4_10_2_2,Numérico,1,"2 "
+Aporte económico por parte del segundo familiar o conocido que vive en EUA.,p4_10_2_2,Numérico,1,"3 "
+Aporte económico por parte del segundo familiar o conocido que vive en EUA.,p4_10_2_2,Numérico,1,"4 "
+Aporte económico por parte del segundo familiar o conocido que vive en EUA.,p4_10_2_2,Numérico,1,"5 "
+Aporte económico por parte del segundo familiar o conocido que vive en EUA.,p4_10_2_2,Numérico,1,"b "
+Aporte económico por parte del tercer familiar o conocido que vive en EUA.,p4_10_2_3,Numérico,1,"1 "
+Aporte económico por parte del tercer familiar o conocido que vive en EUA.,p4_10_2_3,Numérico,1,"2 "
+Aporte económico por parte del tercer familiar o conocido que vive en EUA.,p4_10_2_3,Numérico,1,"3 "
+Aporte económico por parte del tercer familiar o conocido que vive en EUA.,p4_10_2_3,Numérico,1,"4 "
+Aporte económico por parte del tercer familiar o conocido que vive en EUA.,p4_10_2_3,Numérico,1,"5 "
+Aporte económico por parte del tercer familiar o conocido que vive en EUA.,p4_10_2_3,Numérico,1,"b "
+Cantidad recibida al mes por parte de familiares o conocidos que viven en México,p4_9_3,Numérico,6,"1, … , 999996 "
+Cantidad recibida al mes por parte de familiares o conocidos que viven en México,p4_9_3,Numérico,6,"999997 "
+Cantidad recibida al mes por parte de familiares o conocidos que viven en México,p4_9_3,Numérico,6,"999998 "
+Cantidad recibida al mes por parte de familiares o conocidos que viven en México,p4_9_3,Numérico,6,"b "
+Aporte económico por parte del primer familiar o conocido que vive dentro del país,p4_10_3_1,Numérico,1,"1 "
+Aporte económico por parte del primer familiar o conocido que vive dentro del país,p4_10_3_1,Numérico,1,"2 "
+Aporte económico por parte del primer familiar o conocido que vive dentro del país,p4_10_3_1,Numérico,1,"3 "
+Aporte económico por parte del primer familiar o conocido que vive dentro del país,p4_10_3_1,Numérico,1,"4 "
+Aporte económico por parte del primer familiar o conocido que vive dentro del país,p4_10_3_1,Numérico,1,"5 "
+Aporte económico por parte del primer familiar o conocido que vive dentro del país,p4_10_3_1,Numérico,1,"b "
+Aporte económico por parte del segundo familiar o conocido que vive dentro del país,p4_10_3_2,Numérico,1,"1 "
+Aporte económico por parte del segundo familiar o conocido que vive dentro del país,p4_10_3_2,Numérico,1,"2 "
+Aporte económico por parte del segundo familiar o conocido que vive dentro del país,p4_10_3_2,Numérico,1,"3 "
+Aporte económico por parte del segundo familiar o conocido que vive dentro del país,p4_10_3_2,Numérico,1,"4 "
+Aporte económico por parte del segundo familiar o conocido que vive dentro del país,p4_10_3_2,Numérico,1,"5 "
+Aporte económico por parte del segundo familiar o conocido que vive dentro del país,p4_10_3_2,Numérico,1,"b "
+Aporte económico por parte del tercer familiar o conocido que vive dentro del país,p4_10_3_3,Numérico,1,"1 "
+Aporte económico por parte del tercer familiar o conocido que vive dentro del país,p4_10_3_3,Numérico,1,"2 "
+Aporte económico por parte del tercer familiar o conocido que vive dentro del país,p4_10_3_3,Numérico,1,"3 "
+Aporte económico por parte del tercer familiar o conocido que vive dentro del país,p4_10_3_3,Numérico,1,"4 "
+Aporte económico por parte del tercer familiar o conocido que vive dentro del país,p4_10_3_3,Numérico,1,"5 "
+Aporte económico por parte del tercer familiar o conocido que vive dentro del país,p4_10_3_3,Numérico,1,"b "
+Cantidad recibida al mes por becas escolares para sus hijos e hijas,p4_9_4,Numérico,6,"1, …, 999996 "
+Cantidad recibida al mes por becas escolares para sus hijos e hijas,p4_9_4,Numérico,6,"999997 "
+Cantidad recibida al mes por becas escolares para sus hijos e hijas,p4_9_4,Numérico,6,"999998 "
+Cantidad recibida al mes por becas escolares para sus hijos e hijas,p4_9_4,Numérico,6,"b "
+Cantidad recibida al mes por becas escolares para la informante,p4_9_5,Numérico,6,"1, …, 999996 "
+Cantidad recibida al mes por becas escolares para la informante,p4_9_5,Numérico,6,"999997 "
+Cantidad recibida al mes por becas escolares para la informante,p4_9_5,Numérico,6,"999998 "
+Cantidad recibida al mes por becas escolares para la informante,p4_9_5,Numérico,6,"b "
+Cantidad recibida al mes por el Programa Prospera,p4_9_6,Numérico,6,"1, …, 999996 "
+Cantidad recibida al mes por el Programa Prospera,p4_9_6,Numérico,6,"999997 "
+Cantidad recibida al mes por el Programa Prospera,p4_9_6,Numérico,6,"999998 "
+Cantidad recibida al mes por el Programa Prospera,p4_9_6,Numérico,6,"b "
+Cantidad recibida al mes por otro programa del gobierno,p4_9_7,Numérico,6,"1, …, 999996 "
+Cantidad recibida al mes por otro programa del gobierno,p4_9_7,Numérico,6,"999997 "
+Cantidad recibida al mes por otro programa del gobierno,p4_9_7,Numérico,6,"999998 "
+Cantidad recibida al mes por otro programa del gobierno,p4_9_7,Numérico,6,"b "
+Autonomía para usar los recursos monetarios en lo que se desee,p4_11,Numérico,1,"1 "
+Autonomía para usar los recursos monetarios en lo que se desee,p4_11,Numérico,1,"2 "
+Propietario(s) de terreno(s) o tierras de cultivo,p4_12_1,Numérico,1,"1 "
+Propietario(s) de terreno(s) o tierras de cultivo,p4_12_1,Numérico,1,"2 "
+Propietario(s) de automóvil(es) o camioneta(s),p4_12_2,Numérico,1,"1 "
+Propietario(s) de automóvil(es) o camioneta(s),p4_12_2,Numérico,1,"2 "
+Propietario(s) de ahorros,p4_12_3,Numérico,1,"1 "
+Propietario(s) de ahorros,p4_12_3,Numérico,1,"2 "
+Propietario(s) de la vivienda habitada,p4_12_4,Numérico,1,"1 "
+Propietario(s) de la vivienda habitada,p4_12_4,Numérico,1,"2 "
+"Propietario(s) de locales, bodegas u oficinas",p4_12_5,Numérico,1,"1 "
+"Propietario(s) de locales, bodegas u oficinas",p4_12_5,Numérico,1,"2 "
+Propietario(s) de puestos fijos,p4_12_6,Numérico,1,"1 "
+Propietario(s) de puestos fijos,p4_12_6,Numérico,1,"2 "
+Propietario(s) de otra casa o departamento,p4_12_7,Numérico,1,"1 "
+Propietario(s) de otra casa o departamento,p4_12_7,Numérico,1,"2 "
+Persona propietaria de bienes inmuebles,p4_13_1,Numérico,2,"1 "
+Persona propietaria de bienes inmuebles,p4_13_1,Numérico,2,"2 "
+Persona propietaria de bienes inmuebles,p4_13_1,Numérico,2,"3 "
+Persona propietaria de bienes inmuebles,p4_13_1,Numérico,2,"4 "
+Persona propietaria de bienes inmuebles,p4_13_1,Numérico,2,"5 "
+Persona propietaria de bienes inmuebles,p4_13_1,Numérico,2,"6 "
+Persona propietaria de bienes inmuebles,p4_13_1,Numérico,2,"7 "
+Persona propietaria de bienes inmuebles,p4_13_1,Numérico,2,"8 "
+Persona propietaria de bienes inmuebles,p4_13_1,Numérico,2,"98 "
+Persona propietaria de bienes inmuebles,p4_13_1,Numérico,2,"b "
+Persona propietaria de automóvil(es) o camioneta(s),p4_13_2,Numérico,2,"1 "
+Persona propietaria de automóvil(es) o camioneta(s),p4_13_2,Numérico,2,"2 "
+Persona propietaria de automóvil(es) o camioneta(s),p4_13_2,Numérico,2,"3 "
+Persona propietaria de automóvil(es) o camioneta(s),p4_13_2,Numérico,2,"4 "
+Persona propietaria de automóvil(es) o camioneta(s),p4_13_2,Numérico,2,"5 "
+Persona propietaria de automóvil(es) o camioneta(s),p4_13_2,Numérico,2,"6 "
+Persona propietaria de automóvil(es) o camioneta(s),p4_13_2,Numérico,2,"7 "
+Persona propietaria de automóvil(es) o camioneta(s),p4_13_2,Numérico,2,"8 "
+Persona propietaria de automóvil(es) o camioneta(s),p4_13_2,Numérico,2,"98 "
+Persona propietaria de automóvil(es) o camioneta(s),p4_13_2,Numérico,2,"99 "
+Persona propietaria de automóvil(es) o camioneta(s),p4_13_2,Numérico,2,"b "
+Persona propietaria de ahorros,p4_13_3,Numérico,2,"1 "
+Persona propietaria de ahorros,p4_13_3,Numérico,2,"2 "
+Persona propietaria de ahorros,p4_13_3,Numérico,2,"3 "
+Persona propietaria de ahorros,p4_13_3,Numérico,2,"4 "
+Persona propietaria de ahorros,p4_13_3,Numérico,2,"5 "
+Persona propietaria de ahorros,p4_13_3,Numérico,2,"6 "
+Persona propietaria de ahorros,p4_13_3,Numérico,2,"7 "
+Persona propietaria de ahorros,p4_13_3,Numérico,2,"8 "
+Persona propietaria de ahorros,p4_13_3,Numérico,2,"98 "
+Persona propietaria de ahorros,p4_13_3,Numérico,2,"99 "
+Persona propietaria de ahorros,p4_13_3,Numérico,2,"b "
+Persona propietaria de la vivienda que habita la informante,p4_13_4,Numérico,2,"1 "
+Persona propietaria de la vivienda que habita la informante,p4_13_4,Numérico,2,"2 "
+Persona propietaria de la vivienda que habita la informante,p4_13_4,Numérico,2,"3 "
+Persona propietaria de la vivienda que habita la informante,p4_13_4,Numérico,2,"4 "
+Persona propietaria de la vivienda que habita la informante,p4_13_4,Numérico,2,"5 "
+Persona propietaria de la vivienda que habita la informante,p4_13_4,Numérico,2,"6 "
+Persona propietaria de la vivienda que habita la informante,p4_13_4,Numérico,2,"7 "
+Persona propietaria de la vivienda que habita la informante,p4_13_4,Numérico,2,"8 "
+Persona propietaria de la vivienda que habita la informante,p4_13_4,Numérico,2,"98 "
+Persona propietaria de la vivienda que habita la informante,p4_13_4,Numérico,2,"99 "
+Persona propietaria de la vivienda que habita la informante,p4_13_4,Numérico,2,"b "
+"Persona propietaria de locales, bodegas u oficinas",p4_13_5,Numérico,2,"1 "
+"Persona propietaria de locales, bodegas u oficinas",p4_13_5,Numérico,2,"2 "
+"Persona propietaria de locales, bodegas u oficinas",p4_13_5,Numérico,2,"3 "
+"Persona propietaria de locales, bodegas u oficinas",p4_13_5,Numérico,2,"4 "
+"Persona propietaria de locales, bodegas u oficinas",p4_13_5,Numérico,2,"5 "
+"Persona propietaria de locales, bodegas u oficinas",p4_13_5,Numérico,2,"6 "
+"Persona propietaria de locales, bodegas u oficinas",p4_13_5,Numérico,2,"7 "
+"Persona propietaria de locales, bodegas u oficinas",p4_13_5,Numérico,2,"8 "
+"Persona propietaria de locales, bodegas u oficinas",p4_13_5,Numérico,2,"98 "
+"Persona propietaria de locales, bodegas u oficinas",p4_13_5,Numérico,2,"b "
+Persona propietaria de puestos fijos,p4_13_6,Numérico,2,"1 "
+Persona propietaria de puestos fijos,p4_13_6,Numérico,2,"2 "
+Persona propietaria de puestos fijos,p4_13_6,Numérico,2,"3 "
+Persona propietaria de puestos fijos,p4_13_6,Numérico,2,"4 "
+Persona propietaria de puestos fijos,p4_13_6,Numérico,2,"5 "
+Persona propietaria de puestos fijos,p4_13_6,Numérico,2,"6 "
+Persona propietaria de puestos fijos,p4_13_6,Numérico,2,"7 "
+Persona propietaria de puestos fijos,p4_13_6,Numérico,2,"8 "
+Persona propietaria de puestos fijos,p4_13_6,Numérico,2,"98 "
+Persona propietaria de puestos fijos,p4_13_6,Numérico,2,"b "
+Persona propietaria de otra casa o departamento,p4_13_7,Numérico,2,"1 "
+Persona propietaria de otra casa o departamento,p4_13_7,Numérico,2,"2 "
+Persona propietaria de otra casa o departamento,p4_13_7,Numérico,2,"3 "
+Persona propietaria de otra casa o departamento,p4_13_7,Numérico,2,"4 "
+Persona propietaria de otra casa o departamento,p4_13_7,Numérico,2,"5 "
+Persona propietaria de otra casa o departamento,p4_13_7,Numérico,2,"6 "
+Persona propietaria de otra casa o departamento,p4_13_7,Numérico,2,"7 "
+Persona propietaria de otra casa o departamento,p4_13_7,Numérico,2,"8 "
+Persona propietaria de otra casa o departamento,p4_13_7,Numérico,2,"98 "
+Persona propietaria de otra casa o departamento,p4_13_7,Numérico,2,"b "
+Factor de expansión de la vivienda,fac_viv,Numérico,4,"1, …, 9999"
+Factor de expansión mujer,fac_muj,Numérico,5,"1, …, 99999"
+Estrato,estrato,Numérico,1,"1, …, 4"
+Unidad primaria de muestreo,upm_dis,Carácter,5,"00001, …, 99999"
+Estrato de diseño muestral,est_dis,Carácter,4,"0001, …, 9998"

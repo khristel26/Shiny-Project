@@ -1,0 +1,7 @@
+
+
+- Input variables to create the Mexican Index:
+w_willing_sex:  1=Agree, 0=Disagree with the following statement: Woman should always be willing to have sexual relations when her husband or partner wants it.
+w_house_chores: 1=Agree, 0=Disagree with the following statement: Woman should always be the one in charge of doing the household chores even if they work and/or their partner does not.
+w_chooseto_work_study: 1=Agree, 0=Disagree with the following statement: Women should always choose if they want to work or study. (Disagreeing means their partner should choose if a woman works or studies)
+w_conflict_jelousy: 1=Agree, 0=Disagree with the following statement: Men are entitled to create conflict with women if they develop friendship with other men.
