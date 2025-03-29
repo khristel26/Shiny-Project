@@ -1,0 +1,15 @@
+                              model 1               model 2                      model 3
+Dependent Var.: peru_violencia_fisica peru_violencia_sexual mexico_violencia_psicologica
+                                                                                        
+Index                 0.6302 (0.2447)       0.3041 (0.1173)               2.367 (0.8686)
+Fixed-Effects:  --------------------- --------------------- ----------------------------
+years_old                         Yes                   Yes                           No
+education_level                   Yes                   Yes                          Yes
+employed                          Yes                   Yes                          Yes
+marital_status                    Yes                   Yes                          Yes
+Departamento                      Yes                   Yes                           No
+state                              No                    No                          Yes
+_______________ _____________________ _____________________ ____________________________
+S.E.: Clustered         by: years_old         by: years_old          by: education_level
+Observations                    2,575                 2,575                      173,864
+R2                            0.80550               0.74227                      0.77082
